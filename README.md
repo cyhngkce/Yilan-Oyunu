@@ -1,2 +1,9 @@
 # Yilan-Oyunu
-Çocukken tuşlu telefonlarda oynadığımız yılan oyununu yapmaya çalıştım.Projeyi indirerek oyuna ulaşabilirsiniz.Yön tuşlarıyla oynanıyor.Yılan kendine değerse,oyundaki ilerlemeler sıfırlanarak oyun geri başlıyor.
+## Oyunun Amacı
+Yılanın,elmaları yiyerek büyümesi ve bu süreçte kendine değmemesi.
+## Nasıl Oynanıyor?
+Oyunu yön tuşlarıyla oynayabilirsiniz.
+## Oyunu Nasıl İndiririm?
+Yeşil kutu içerisinde code yazan yere tıklayıp,"download ZIP" yazan yere tıklayıp oyunu indirebilirsiniz.
+### Oyundan Görsel
+![Oyun içi Göresl](yilan.png)
